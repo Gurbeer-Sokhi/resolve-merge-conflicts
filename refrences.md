@@ -1,2 +1,2 @@
-### new conflict
+### New conflict
 ## more conflict
